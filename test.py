@@ -7,4 +7,4 @@ def circumference(r):
 
 def area(r):
     carea = np.pi*r**2
-    return circ
+    return area
